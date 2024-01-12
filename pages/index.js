@@ -1,5 +1,4 @@
 function Home(){
-  return <><h1>Oi meu amor, estou fazendo um site, e aqui está a primeira mensagem dele:</h1><div> Eu amo você!</div></>
-  
+  return <h1>Este é meu primeiro site feito com Next.js e com deploy feito na Vercel</h1>
 }
 export default Home
