@@ -24,10 +24,9 @@
     "tslib": "^2.6.2",
     "watchpack": "^2.4.0"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev":  "next dev"
+    "dev": "next dev"
   },
   "author": "",
   "license": "MIT"
