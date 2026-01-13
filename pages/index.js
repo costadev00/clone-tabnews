@@ -1,4 +1,4 @@
 function Home(){
-  return <h1>Amandinha bonitinha, se você me ama, da uma risadinha!!!</h1>
+    return <h1>Welcome to the Matheus Costa Page</h1>;
 }
-export default Home
+export default Home;
