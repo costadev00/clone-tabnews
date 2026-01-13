@@ -4,8 +4,9 @@
   "description": "Projeto para reproduzir o [TabNews](https://tabnews.com.br) como parte do curso **curso.dev**, cobrindo fundamentos e práticas essenciais de engenharia de software.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "next dev"
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
   },
   "author": "",
   "license": "MIT",
